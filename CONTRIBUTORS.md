@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Thom Q](https://github.com/tykqian)
+-Place: San Diego, CA
+-Bio: Total utter noob
+-Github: [tykqian](https://github.com/tykqian)
